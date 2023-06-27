@@ -1,0 +1,6 @@
+baseURL = "https://arikui1911.github.io/"
+languageCode = "ja-jp"
+title = "My Programming Junkyard"
+publishDir = "docs"
+theme = "PaperMod"
+

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>My Programming Junkyard</title>
+    <link>https://arikui1911.github.io/</link>
+    <description>Recent content on My Programming Junkyard</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Tue, 27 Jun 2023 17:55:26 +0900</lastBuildDate><atom:link href="https://arikui1911.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Post</title>
+      <link>https://arikui1911.github.io/page/first-post/</link>
+      <pubDate>Tue, 27 Jun 2023 17:55:26 +0900</pubDate>
+      
+      <guid>https://arikui1911.github.io/page/first-post/</guid>
+      <description>Hugo + Github Pages でやってみる。
+package main import &amp;#34;fmt&amp;#34; func main(){ fmt.Println(&amp;#34;Hello, Hugo!&amp;#34;) } </description>
+    </item>
+    
+  </channel>
+</rss>
